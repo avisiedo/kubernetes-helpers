@@ -1,2 +1,9 @@
 # kubernetes-helpers
-Notes about different aspects of K8s theat have been useful for me
+
+Repository to store several information that I have learned or I have found useful in
+my way to the cloud native world and hybrid-cloud strategy.
+
+The contents are splited below:
+
+- [Changing machine configuration](MachineConfig.md).
+
