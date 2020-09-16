@@ -5,5 +5,5 @@ my way to the cloud native world and hybrid-cloud strategy.
 
 The contents are splited below:
 
-- [Changing machine configuration](MachineConfig.md).
+- [Changing machine configuration](docs/MachineConfig.md).
 
